@@ -1,0 +1,5 @@
+ignored:
+  # DL3018: pin versions in apk add. Intentionally unpinned — this is a base
+  # image rebuilt weekly so it picks up Alpine security patches. The base image
+  # tag (alpine:3.21) is the pin that matters.
+  - DL3018

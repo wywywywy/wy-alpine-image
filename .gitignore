@@ -1,0 +1,11 @@
+# Editors / OS
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Local scratch
+*.log
+*.tar
+*.tar.gz
